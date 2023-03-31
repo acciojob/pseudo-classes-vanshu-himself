@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+*{
+	background-color:skyblue;
+}
+.first-child{
+	background-color:white;
+	padding:10px;
+}.second-child{
+	background-color:gray;
+	padding:10px;
+}.third-child{
+	background-color:pink;
+	padding:10px;
+}.fourth-child{
+	background-color:gray;
+	padding:10px;
+}.fifth-child{
+	background-color:white;
+	padding:10px;
+}
